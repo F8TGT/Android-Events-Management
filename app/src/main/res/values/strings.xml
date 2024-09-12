@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Events-Management</string>
+    <string name="welcome_lbl">Welcome</string>
+    <string name="sign_in_lbl">Sign In</string>
+    <string name="sign_up_lbl">Sign Up</string>
+    <string name="forgot_password_lbl">Forgot Password</string>
+    <string name="sign_out_lbl">Sign Out</string>
+    <string name="home_top_description_txt">Here are some events you may be interested.</string>
+    <string name="start_time_lbl">Start time:</string>
+    <string name="end_time_lbl">End time:</string>
+    <string name="see_details_btn_lbl">More Details</string>
 </resources>
